@@ -1,0 +1,187 @@
+*{
+    padding: 0;
+    margin: 0;
+    font-family: Helvetica;
+}
+body{
+    font-size: 14px;
+}
+.title-section{
+    padding:.5rem .6rem;
+    background-color: #5CB85F;
+    color: white;
+    border-radius: 3px;
+    border: none;
+}
+
+.navbar{
+    padding: 32px 10%;
+    background-color: #F1F3FF;
+}
+.navbar .logo{
+    width: 10%;
+    height: 30px;
+    background-color: #0D28A6;
+}
+
+ .btn-register{
+    padding:.5rem .8rem;
+    background-color: #5CB85F;
+    color: white;
+    border-radius: 2px;
+    border: none;
+}
+.hero-section{
+    background-color: #F1F3FF;
+}
+.container-content .description{
+    font-size: 14px;
+    line-height: 20px;
+}
+.container-content .header-hero{
+    font-size: 36px;
+    font-weight: 700;
+    line-height: 54px;
+}
+
+.col .bg-image{
+    background-color: #0D28A6;
+    border-top-left-radius: 80px;
+}
+
+.service-section{
+    margin-block: 6.25rem;
+}
+.col > .services-image{
+    width: 459px;
+    height: 428px;
+}
+.title-2{
+    font-size: 24px;
+    line-height: 36px;
+    font-weight: 700;
+}
+.col-9 > .description{
+    font-size: 14px;
+    line-height: 20px;
+    font-weight: 300;
+}
+.why{
+    flex-direction: row;
+    flex-wrap: wrap;
+}
+.rounded-circle{
+    background-color: #CFD4ED;
+
+}
+.col > .rounded-circle{
+    width: 24px;
+    height: 24px;
+    
+}
+.col > .desc{
+    font-size: 14px;
+}
+.check{
+    width: 16px;
+    color: #0D28A6;
+    stroke-width: 3;
+
+}
+.card-title {
+    font-weight: 700;
+}
+.icons-like {
+    background: #F9CC00;
+}
+.icons-time {
+    background: #0D28A6;
+}
+.icons-pro {
+    background: #5CB85F;
+
+}
+.icons-like, .icons-tag,.icons-time,.icons-pro{
+    width: 32px;
+    height: 32px;
+}
+.like ,.tag,.time,.pro {
+    width: 20px;
+    height: 20px;
+    color: white;
+}
+.container-cards{
+    gap: 1.5rem;
+    margin-top: 2.5rem;
+}
+.testimonial-section {
+ margin-block: 6.25rem;   
+}
+.carousel-container{
+    margin-top: 40px;
+}
+.carousel-control-next-icon , .carousel-control-prev-icon{
+    width: 20px;
+    height: 20px;
+}
+.star{
+    stroke-width: 2;
+    color: #F9CC00;
+    fill: #F9CC00;
+    width: 16px;
+
+    height: 16px;
+}
+.carousel-control-next-icon{
+    position :absolute;
+    right: 10px;
+}
+.carousel-control-prev-icon{
+    position :absolute;
+    left: 10px;
+}
+.carousel-item .card-body .mages{
+    align-self: center;
+}
+
+.container.text-center{
+    background-color: #0D28A6;
+    padding-block: 4rem;
+
+}
+.description-getting{
+    margin-bottom: 52px;
+}
+.faq-container{
+        margin-top: 6.25rem;
+        margin-bottom: 9.375rem;
+}
+button.accordion-button{
+    font-size: 14px;
+    font-family: Helvetica;
+    padding-block: 18px;
+    padding-left: 24px;
+}
+
+.container-footer{
+    margin-top: 150px;
+}
+.container-footer .logo{
+    width: 50%;
+    height: 30px;
+    background-color: #0D28A6;
+}
+.icons{
+    background-color: #0D28A6;
+    width: 32px;
+    height: 32px;
+}
+.firstb { 
+    width: 20px;
+    height: 20px;
+    color: white;
+    stroke-width: 1;
+}
+
+
+
